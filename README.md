@@ -734,24 +734,6 @@ For serious or persistent health concerns, consult a qualified healthcare profes
 </a>
 
 </div>
-
----
-
-# 📈 GitHub Profile
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=techwithmanav&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwithmanav&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=techwithmanav&theme=tokyonight&hide_border=true" />
-
-</div>
 ----
 
 <div align="center">
