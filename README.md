@@ -752,44 +752,7 @@ For serious or persistent health concerns, consult a qualified healthcare profes
 <img src="https://streak-stats.demolab.com?user=techwithmanav&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/techwithmanav/techwithmanav/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-# ⭐ Support
-
-If you found this project useful or interesting:
-
-### ⭐ Star the repository
-
-### 🍴 Fork the project
-
-### 💡 Explore the code
-
-### 🚀 Try the live application
-
-<div align="center">
-
-<a href="https://github.com/techwithmanav/project-health-Assistant">
-<img src="https://img.shields.io/github/stars/techwithmanav/project-health-Assistant?style=for-the-badge&logo=github&label=STARS" />
-</a>
-
-<a href="https://github.com/techwithmanav/project-health-Assistant/fork">
-<img src="https://img.shields.io/github/forks/techwithmanav/project-health-Assistant?style=for-the-badge&logo=github&label=FORKS" />
-</a>
-
-</div>
-
----
+----
 
 <div align="center">
 
